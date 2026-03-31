@@ -1,6 +1,7 @@
 # ☕ Estudos de Java - SENAI
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+
 Repositório destinado ao armazenamento de exercícios e projetos desenvolvidos durante as aulas de Java.
 
 ## 🚀 Tecnologias Utilizadas
